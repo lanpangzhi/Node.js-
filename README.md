@@ -11,3 +11,4 @@
 - [Node模块机制](http://blog.langpz.com/2018/01/08/Node%E6%A8%A1%E5%9D%97%E6%9C%BA%E5%88%B6/)
 - [npm使用介绍](http://blog.langpz.com/2017/12/20/npm%E4%BD%BF%E7%94%A8%E4%BB%8B%E7%BB%8D/)
 - [npm设置淘宝镜像](http://blog.langpz.com/2017/12/15/npm%E8%AE%BE%E7%BD%AE%E6%B7%98%E5%AE%9D%E9%95%9C%E5%83%8F/)
+- [http](http://blog.langpz.com/2018/01/15/http%E6%A8%A1%E5%9D%97/)
