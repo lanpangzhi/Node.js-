@@ -13,3 +13,5 @@
 - [npm设置淘宝镜像](http://blog.langpz.com/2017/12/15/npm%E8%AE%BE%E7%BD%AE%E6%B7%98%E5%AE%9D%E9%95%9C%E5%83%8F/)
 - [global](http://blog.langpz.com/2018/02/02/global%E5%AF%B9%E8%B1%A1/)
 - [http](http://blog.langpz.com/2018/01/15/http%E6%A8%A1%E5%9D%97/)
+- [Buffer](http://blog.langpz.com/2018/02/06/Buffer%E5%AF%B9%E8%B1%A1/)
+- [querystring](http://blog.langpz.com/2018/02/09/querystring%E6%A8%A1%E5%9D%97/)
