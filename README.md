@@ -15,4 +15,5 @@
 - [http](http://blog.langpz.com/2018/01/15/http%E6%A8%A1%E5%9D%97/)
 - [Buffer](http://blog.langpz.com/2018/02/06/Buffer%E5%AF%B9%E8%B1%A1/)
 - [querystring](http://blog.langpz.com/2018/02/09/querystring%E6%A8%A1%E5%9D%97/)
-- [fs模块](http://blog.langpz.com/2018/02/22/fs%E6%A8%A1%E5%9D%97/)
+- [fs](http://blog.langpz.com/2018/02/22/fs%E6%A8%A1%E5%9D%97/)
+- [path](http://blog.langpz.com/2018/02/26/path%E6%A8%A1%E5%9D%97/)
