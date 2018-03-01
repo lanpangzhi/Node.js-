@@ -17,3 +17,4 @@
 - [querystring](http://blog.langpz.com/2018/02/09/querystring%E6%A8%A1%E5%9D%97/)
 - [fs](http://blog.langpz.com/2018/02/22/fs%E6%A8%A1%E5%9D%97/)
 - [path](http://blog.langpz.com/2018/02/26/path%E6%A8%A1%E5%9D%97/)
+- [stream](http://blog.langpz.com/2018/02/27/stream%E6%A8%A1%E5%9D%97/)
