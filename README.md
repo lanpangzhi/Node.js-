@@ -27,3 +27,4 @@
 ## node框架
 - [Express](http://blog.langpz.com/2018/03/19/express%E7%AE%80%E5%8D%95%E5%85%A5%E5%9D%91/)
 - [Express处理数据请求(get&post)](http://blog.langpz.com/2018/04/02/Express%E5%A4%84%E7%90%86%E6%95%B0%E6%8D%AE%E8%AF%B7%E6%B1%82/)
+- [Express中间件body-parser简单实现](http://blog.langpz.com/2018/04/18/Express%E4%B8%AD%E9%97%B4%E4%BB%B6body-parser%E7%AE%80%E5%8D%95%E5%AE%9E%E7%8E%B0/)
