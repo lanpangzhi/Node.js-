@@ -5,7 +5,7 @@
 ## Node.js 的介绍和环境搭建
 - [使用nvm安装node](http://blog.langpz.com/nvm%E7%AE%A1%E7%90%86node-js%E7%89%88%E6%9C%AC%EF%BC%88Windows%E7%B3%BB%E7%BB%9F%EF%BC%89.html)
 - [VSCode 配置Node调试环境](http://blog.langpz.com/2018/01/05/VSCode-%E9%85%8D%E7%BD%AENode%E8%B0%83%E8%AF%95%E7%8E%AF%E5%A2%83.html)
-- [什么是Node.js](http://blog.langpz.com/2018/01/08/%E4%BB%80%E4%B9%88%E6%98%AFNode-js.html)
+- [什么是Node.js](http://blog.langpz.com/%E4%BB%80%E4%B9%88%E6%98%AFNode-js.html)
 
 ## Node.js 模块
 - [Node模块机制](http://blog.langpz.com/Node%E6%A8%A1%E5%9D%97%E6%9C%BA%E5%88%B6.html)
