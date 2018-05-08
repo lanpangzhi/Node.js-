@@ -3,7 +3,7 @@
 一日不转行，学习永不停！
 
 ## Node.js 的介绍和环境搭建
-- [使用nvm安装node](http://blog.langpz.com/nvm%E7%AE%A1%E7%90%86node-js%E7%89%88%E6%9C%AC%EF%BC%88Windows%E7%B3%BB%E7%BB%9F%EF%BC%89.html)
+- [使用nvm安装node（Windows系统）](http://blog.langpz.com/nvm%E7%AE%A1%E7%90%86node-js%E7%89%88%E6%9C%AC%EF%BC%88Windows%E7%B3%BB%E7%BB%9F%EF%BC%89.html)
 - [VSCode 配置Node调试环境](http://blog.langpz.com/2018/01/05/VSCode-%E9%85%8D%E7%BD%AENode%E8%B0%83%E8%AF%95%E7%8E%AF%E5%A2%83.html)
 - [什么是Node.js](http://blog.langpz.com/%E4%BB%80%E4%B9%88%E6%98%AFNode-js.html)
 
@@ -34,3 +34,6 @@
 
 ## Express模板引擎
 - [EJS](http://blog.langpz.com/ejs%E6%A8%A1%E6%9D%BF%E5%BC%95%E6%93%8E.html)
+
+## 数据库
+- [安装MySQL（Windows系统）](http://blog.langpz.com/Windows%E4%B8%8B%E5%AE%89%E8%A3%85MySQL.html)
