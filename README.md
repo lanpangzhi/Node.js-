@@ -37,3 +37,4 @@
 
 ## 数据库
 - [安装MySQL（Windows系统）](http://blog.langpz.com/Windows%E4%B8%8B%E5%AE%89%E8%A3%85MySQL.html)
+- [安装MongoDB（Windows系统）](http://blog.langpz.com/Windows%E4%B8%8B%E5%AE%89%E8%A3%85MongoDB.html)
