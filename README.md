@@ -38,3 +38,6 @@
 ## 数据库
 - [安装MySQL（Windows系统）](http://blog.langpz.com/Windows%E4%B8%8B%E5%AE%89%E8%A3%85MySQL.html)
 - [安装MongoDB（Windows系统）](http://blog.langpz.com/Windows%E4%B8%8B%E5%AE%89%E8%A3%85MongoDB.html)
+
+## node连接数据库
+- [node连接MySQL](http://blog.langpz.com/node%E8%BF%9E%E6%8E%A5MySQL.html)
