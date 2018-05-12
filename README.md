@@ -41,3 +41,6 @@
 
 ## node连接数据库
 - [node连接MySQL](http://blog.langpz.com/node%E8%BF%9E%E6%8E%A5MySQL.html)
+
+## node爬虫
+- [爬取智联排行榜数据](http://blog.langpz.com/node%E7%88%AC%E8%99%AB.html)
