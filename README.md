@@ -32,7 +32,7 @@
 - [cookie和session](http://blog.langpz.com/Express%E6%A1%86%E6%9E%B6cookie%E5%92%8Csession.html)
 - [Express路由](http://blog.langpz.com/Express%E8%B7%AF%E7%94%B1.html)
 
-## Express模板引擎
+## node模板引擎
 - [EJS](http://blog.langpz.com/ejs%E6%A8%A1%E6%9D%BF%E5%BC%95%E6%93%8E.html)
 
 ## 数据库
