@@ -44,3 +44,6 @@
 
 ## node爬虫
 - [爬取智联排行榜数据](http://blog.langpz.com/node%E7%88%AC%E8%99%AB.html)
+
+## 快速生成Express应用
+- [使用express-generator快速生成express应用](http://blog.langpz.com/%E4%BD%BF%E7%94%A8express-generator%E5%BF%AB%E9%80%9F%E7%94%9F%E6%88%90express%E5%BA%94%E7%94%A8.html)
