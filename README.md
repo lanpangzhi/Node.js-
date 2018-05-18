@@ -50,3 +50,4 @@
 
 ## Express小说接口API服务
 - [使用Express开发小说API接口服务1.0（一）](http://blog.langpz.com/%E4%BD%BF%E7%94%A8Express%E5%BC%80%E5%8F%91%E5%B0%8F%E8%AF%B4API%E6%8E%A5%E5%8F%A3%E6%9C%8D%E5%8A%A1.html)
+- [使用Express开发小说API接口服务1.0（二）](http://blog.langpz.com/%E4%BD%BF%E7%94%A8Express%E5%BC%80%E5%8F%91%E5%B0%8F%E8%AF%B4API%E6%8E%A5%E5%8F%A3%E6%9C%8D%E5%8A%A1-%E4%BA%8C.html)
