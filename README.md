@@ -47,3 +47,6 @@
 
 ## 快速生成Express应用
 - [使用express-generator快速生成express应用](http://blog.langpz.com/%E4%BD%BF%E7%94%A8express-generator%E5%BF%AB%E9%80%9F%E7%94%9F%E6%88%90express%E5%BA%94%E7%94%A8.html)
+
+## Express小说接口API服务
+- [使用Express开发小说API接口服务1.0（一）](http://blog.langpz.com/%E4%BD%BF%E7%94%A8Express%E5%BC%80%E5%8F%91%E5%B0%8F%E8%AF%B4API%E6%8E%A5%E5%8F%A3%E6%9C%8D%E5%8A%A1.html)
