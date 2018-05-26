@@ -52,3 +52,6 @@
 - [使用Express开发小说API接口服务1.0（一）](http://blog.langpz.com/%E4%BD%BF%E7%94%A8Express%E5%BC%80%E5%8F%91%E5%B0%8F%E8%AF%B4API%E6%8E%A5%E5%8F%A3%E6%9C%8D%E5%8A%A1.html)
 - [使用Express开发小说API接口服务1.0（二）](http://blog.langpz.com/%E4%BD%BF%E7%94%A8Express%E5%BC%80%E5%8F%91%E5%B0%8F%E8%AF%B4API%E6%8E%A5%E5%8F%A3%E6%9C%8D%E5%8A%A1-%E4%BA%8C.html)
 - [使用Express开发小说API接口服务1.0（三）](http://blog.langpz.com/%E4%BD%BF%E7%94%A8Express%E5%BC%80%E5%8F%91%E5%B0%8F%E8%AF%B4API%E6%8E%A5%E5%8F%A3%E6%9C%8D%E5%8A%A11-0%EF%BC%88%E4%B8%89%EF%BC%89.html)
+
+## 快速API接口文档
+- [使用apidoc文档神器，快速生成api文档](http://blog.langpz.com/%E4%BD%BF%E7%94%A8apidoc%E6%96%87%E6%A1%A3%E7%A5%9E%E5%99%A8%EF%BC%8C%E5%BF%AB%E9%80%9F%E7%94%9F%E6%88%90api%E6%96%87%E6%A1%A3.html)
