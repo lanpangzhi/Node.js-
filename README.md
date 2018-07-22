@@ -55,3 +55,6 @@
 
 ## 快速API接口文档
 - [使用apidoc文档神器，快速生成api文档](http://blog.langpz.com/%E4%BD%BF%E7%94%A8apidoc%E6%96%87%E6%A1%A3%E7%A5%9E%E5%99%A8%EF%BC%8C%E5%BF%AB%E9%80%9F%E7%94%9F%E6%88%90api%E6%96%87%E6%A1%A3.html)
+
+## node定时任务
+- [node定时任务](http://blog.langpz.com/node定时任务.html)
